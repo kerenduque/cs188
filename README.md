@@ -1,1 +1,3 @@
-# cs188
+# CS188
+
+This project implements search algorithms (DFS, BFS, A* Search) for the Pacman environment.
